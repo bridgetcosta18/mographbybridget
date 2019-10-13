@@ -96,7 +96,7 @@ p{
 	padding:2% 10% 10% 10%;	
 	border:dotted;
 	border-color: #ffd455;
-	border-width: 2%;
+	border-width: 2px 2px 2px 2px;
 	color:white;
 }
 #sub{
