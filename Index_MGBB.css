@@ -37,11 +37,13 @@ li{
 	padding-top:20%;
 	display:block; /*makes entire area clickable, not just text*/
 	height:100%;
+	font-size:100%
 }
 li a{
 	text-decoration:none;
 	color:#c87bb2;
 	height:100%;
+	font-size:90%
 	
 }
 #active{
@@ -55,6 +57,8 @@ li a{
 	border-left-width:1px;
 	border-left-style:dotted; 
 	border-left-color:white;
+	display:contents;
+	width:auto;
 }
 
 #menu{
@@ -62,6 +66,7 @@ li a{
 	height:100%;
 	width: 15%;
 	float:right;
+	padding-right:1%
 }
 #menuLogo{
 	height:60%;
